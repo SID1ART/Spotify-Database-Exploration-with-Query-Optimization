@@ -4,7 +4,7 @@
 Spotify dataset which I used : https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset
 
 
-https://tse4.mm.bing.net/th/id/OIP.53NR756R-0CihKlw2pdtxwHaD4?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3
+![Spotify Logo](https://tse4.mm.bing.net/th/id/OIP.53NR756R-0CihKlw2pdtxwHaD4?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## Overview
 I have completed a comprehensive SQL project focused on analyzing a Spotify dataset containing detailed information about tracks, albums, and artists.
@@ -41,7 +41,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 - **Query Execution Plan**: Using `EXPLAIN ANALYZE` to review and refine query performance.
 
 
-##Practice Questions
+###Practice Questions
 ### Easy Level
 1. Retrieve the names of all tracks that have more than 1 billion streams.
 2. List all albums along with their respective artists.
