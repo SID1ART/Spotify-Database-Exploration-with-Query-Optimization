@@ -41,7 +41,7 @@ In advanced stages, the focus shifts to improving query performance. Some optimi
 - **Query Execution Plan**: Using `EXPLAIN ANALYZE` to review and refine query performance.
 
 
-###Practice Questions
+## Practice Questions
 ### Easy Level
 1. Retrieve the names of all tracks that have more than 1 billion streams.
 2. List all albums along with their respective artists.
